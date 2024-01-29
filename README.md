@@ -6,6 +6,6 @@ Penny Mealy, Michael Ganslmeier, Catrina Godinho, Stephane Hallegatte
 
 ## Replication
 
-This repository includes all data and coding scripts that are used to estimate and replicate the figures and tables in the paper. The codes are written in Python, Stata, and R. The repository consists of two folders: one folder, called [1 climate possibility space](1 climate possibility space) the includes all relevant material to replicate the climate policy network; and one folder, called [results2 regressions - adoption and reduction potential](2 regressions - adoption and reduction potential), that includes all material to estimate the adoption regressions and emission reduction potential regressions.
+This repository includes all data and coding scripts that are used to estimate and replicate the figures and tables in the paper. The codes are written in Python, Stata, and R. The repository consists of two folders: one folder, called [1 climate possibility space](1 climate possibility space), that includes all relevant material to replicate the climate policy network; and one folder, called [results2 regressions - adoption and reduction potential](2%20regressions%20-%20adoption%20and%20reduction%20potential), that includes all material to estimate the adoption regressions and emission reduction potential regressions.
 
 If you have specific questions about the replication files, please do not hesitate to reach out.
